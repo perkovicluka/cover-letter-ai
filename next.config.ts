@@ -1,11 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true
-  },
-  basePath: '/cover-letter-ai',
-  assetPrefix: '/cover-letter-ai'
+  reactStrictMode: true,
 };
 
 module.exports = nextConfig;
