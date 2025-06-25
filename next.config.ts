@@ -1,12 +1,11 @@
-// next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
   images: {
-    unoptimized: true, // Required for GitHub Pages
+    unoptimized: true
   },
-  basePath: '/cover-letter-ai', // 👈 Replace <REPO_NAME> with your GitHub repo name
-  trailingSlash: true, // Required for static hosting
-}
+  basePath: '/cover-letter-ai',
+  assetPrefix: '/cover-letter-ai'
+};
 
 module.exports = nextConfig;
