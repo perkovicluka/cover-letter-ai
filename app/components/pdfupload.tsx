@@ -38,7 +38,14 @@ export default function PDFUpload({ setResume }: PDFUploadProps) {
       for (let i = 1; i <= pdf.numPages; i++) {
         const page = await pdf.getPage(i)
         const content = await page.getTextContent()
-        const pageText = content.items.map((item: any) => item.str).join(' ')
+        const pageText = content.items
+          .map((item) => {
+            if ('str' in item) {
+              return item.str
+            }
+            return ''
+          })
+          .join(' ');
         extractedText += pageText + '\n'
       }
 
