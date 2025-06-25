@@ -9,11 +9,10 @@ import { ThemeContext } from './themeprovider'
 pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker
 
 interface PDFUploadProps {
-  resume: string
   setResume: React.Dispatch<React.SetStateAction<string>>
 }
 
-export default function PDFUpload({ resume, setResume }: PDFUploadProps) {
+export default function PDFUpload({ setResume }: PDFUploadProps) {
   const { isDark } = useContext(ThemeContext)
 
   const [fileTooBig, setFileTooBig] = useState(false)

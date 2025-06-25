@@ -4,7 +4,7 @@ import { useState, useContext } from 'react'
 
 import PDFUpload from './components/pdfupload'
 
-import ThemeProvider, { ThemeContext } from './components/themeprovider'
+import { ThemeContext } from './components/themeprovider'
 import ThemeToggle from './components/themetoggle'
 
 export default function Home() {
@@ -69,7 +69,7 @@ export default function Home() {
         <label className={`text-sm font-medium ${isDark ? 'text-gray-300' : 'text-gray-700'}`}>
             Upload your resume:
           </label>
-        <PDFUpload resume={resume} setResume={setResume} />
+        <PDFUpload setResume={setResume} />
 
         <div className="space-y-2">
           <label className={`text-sm font-medium ${isDark ? 'text-gray-300' : 'text-gray-700'}`}>
