@@ -1,0 +1,69 @@
+https://platform.openai.com/usage
+
+#Confident
+📄 Your Cover Letter
+Dear Hiring Manager,
+
+I am writing to express my interest in the Mid-Level Software Engineer position at your company. With a strong foundation in computer engineering from the University of Waterloo and experience working on a variety of projects involving real-time data processing and system automation, I am confident in my ability to contribute effectively to your team.
+
+My skills in languages such as Python, Java, and C++, as well as experience with frameworks like ReactJS and datastores like Postgres align well with the technologies used on your team, including Spark, Kafka, and Kubernetes. I have a deep passion for coding, excellent independent learning skills, and a track record of absorbing best practices quickly. I am coachable, eager to grow, and able to work as a fully functioning member of an engineering team.
+
+I have experience collaborating with technical teams and business units, analyzing large datasets, and automating processes to improve efficiency. I believe that my background in developing automation scripts and building data storage applications could make me a valuable asset in designing and implementing Ads products and supporting day-to-day project management tasks.
+
+I am excited about the opportunity to contribute to your team and help build extensible components that align with the product objectives. I am eager to continue learning and growing as an engineer while delivering high-quality code and solutions.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my skills and experiences align with the requirements of the role.
+
+Sincerely,
+Luka Perkovic
+
+#Formal
+📄 Your Cover Letter
+Dear Hiring Manager,
+
+I am writing to express my interest in the Mid-level Engineer position at your company, specifically in the area of real-time, data-intensive systems for measuring the performance of ad campaigns. With a strong background in computer engineering, extensive experience with various programming languages such as Python and Java, and a passion for coding, I believe I possess the skills and qualities necessary to excel in this role.
+
+In my previous role as a Global Network Engineering IT Project Analyst at Scotiabank, I developed a Python script to automate system monitoring processes, analyzed large datasets to identify patterns, and collaborated with technical teams to ensure compliance with business standards. These experiences have honed my problem-solving skills, ability to work independently, and my knack for effective communication with stakeholders.
+
+Furthermore, my involvement in various projects, such as building a smart room access system and developing a weather app using ReactJS, showcases my proficiency in working with frameworks and libraries like Spark, Kafka, and ReactJS, which are technologies used in your team. Additionally, my experience with databases including Postgres and Redis aligns well with the datastores used in your infrastructure.
+
+I am confident that my coachability, eagerness to learn, and ability to independently code, coupled with my passion for coding and strong independent learning skills, make me a suitable candidate for this position. I am excited about the opportunity to work with a team that values continuous growth and innovation.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my skills and experiences align with the needs of your team.
+
+Sincerely,
+
+Luka Perkovic
+
+#Casual
+📄 Your Cover Letter
+Dear Hiring Team,
+
+I am excited to express my interest in the mid-level engineer position focusing on real-time, data-intensive systems for measuring the performance of ad campaigns. With my background in computer engineering and extensive experience in languages such as Python and frameworks like ReactJS, I believe I can be a valuable addition to your team.
+
+My technical skills align well with the technologies used in your team, including Python, datastores like Postgres and BigQuery, and tools like Docker. I have a deep passion for coding and a strong track record of independent learning, which I believe are essential for this role. Additionally, my experience in collaborating with technical teams and developing automated solutions at Scotiabank has honed my problem-solving abilities and attention to detail.
+
+I am eager to absorb best practices, work closely with senior engineers, and contribute effectively to the design of complex solutions. I am confident that my coachability, eagerness to grow, and ability to code independently make me a strong candidate for this position.
+
+I look forward to the opportunity to discuss how my skills and experiences align with the responsibilities and qualifications for this role. Thank you for considering my application.
+
+Warm regards,
+
+Luka Perkovic
+
+#Enthusiastic
+
+📄 Your Cover Letter
+Dear Hiring Team,
+
+I am thrilled to apply for the iOS Engineer position with Reddit’s User Economy team. With a strong background in computer engineering, extensive experience in iOS application development, and a passion for innovative projects, I am confident in my ability to contribute effectively to your team.
+
+Throughout my academic and professional career, I have honed my skills in languages such as C++, Java, and Python, as well as frameworks like ReactJS and databases like Google Cloud and AWS. My experience at Scotiabank as a Global Network Engineering IT Project Analyst equipped me with the ability to collaborate effectively with technical teams and business units, analyze data sets, and develop solutions to improve system efficiency.
+
+I am particularly excited about the opportunity to work on high-impact projects at the intersection of iOS development, monetization, and platform scalability with Reddit's User Economy team. My experience with Swift, Xcode, and architectural patterns such as MVVM make me well-suited for the role. I am eager to contribute to product development, collaborate cross-functionally, and drive innovative solutions that enhance the user experience on Reddit.
+
+Thank you for considering my application. I am looking forward to the opportunity to discuss how my skills and experiences align with the goals of the User Economy team at Reddit.
+
+Best regards,
+
+Luka Perkovic

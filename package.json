@@ -5,23 +5,30 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "deploy": "next build && gh-pages -d out -b gh-pages -r https://github.com/YOUR_USERNAME/cover-letter-ai.git"
   },
   "dependencies": {
+    "@next/font": "^14.2.15",
+    "@tailwindcss/postcss": "^4.1.10",
+    "canvas": "^3.1.1",
+    "framer-motion": "^12.19.1",
+    "lucide-react": "^0.522.0",
+    "next": "15.3.4",
+    "next-themes": "^0.4.6",
+    "pdfjs-dist": "^3.4.120",
+    "postcss": "^8.5.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.4"
+    "tailwindcss": "^4.1.10"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
     "@types/node": "^20",
+    "@types/pdfjs-dist": "^2.10.377",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.3.4",
-    "@eslint/eslintrc": "^3"
+    "typescript": "^5"
   }
 }
